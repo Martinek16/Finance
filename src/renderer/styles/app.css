@@ -1,0 +1,8 @@
+/* src/renderer/styles/app.css */
+/* Globalni stili za celotno aplikacijo */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #40414f; /* Barva ozadja za celotno aplikacijo */
+    margin: 0; /* Odstranitev robu okoli okna */
+    overflow: hidden; /* Preprečitev prelivanja vsebine izven okna */
+}

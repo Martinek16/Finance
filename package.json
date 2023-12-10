@@ -1,0 +1,15 @@
+{
+  "name": "finance",
+  "version": "1.0.0",
+  "description": "Finančna aplikacija",
+  "main": "src/main/main.js",
+  "scripts": {
+    "test": "test",
+    "start": "electron ."
+  },
+  "author": "Martinek16",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^28.0.0"
+  }
+}
